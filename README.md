@@ -50,7 +50,6 @@ The **R.E.P.O. Save Editor** is a tool to modify your [R.E.P.O.](https://store.s
 - AES-256** encryption identical to the game's encryption
 - Automatic update verification
 - No special permissions required
-- Open and transparent code
 
 ## ⚠️ Important
 
