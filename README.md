@@ -54,7 +54,6 @@ The **R.E.P.O. Save Editor** is a tool to modify your [R.E.P.O.](https://store.s
 ## ⚠️ Important
 
 This editor is designed to:
-- Recover lost games
 - Experiment with different game settings
 - Correct progress errors
 
